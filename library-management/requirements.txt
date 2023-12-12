@@ -1,3 +1,0 @@
-flask_mysqldb
-mysqlclient~=2.2.0
-flask~=3.0.0
